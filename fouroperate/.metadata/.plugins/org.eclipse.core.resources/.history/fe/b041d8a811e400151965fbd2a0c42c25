@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>four operations</title>
+<script src="js/operation.js" type="text/javascript">
+</head>
+<body>
+<div id="whole" align="center">
+	<input type="text" id="formula">
+	<input type="button" value="operation" onclick="showFormula">
+	<input type="text" id="answer">
+	<input type="button" value="check answer" onclick="checkAns">
+	
+</div>
+</body>
+</html>

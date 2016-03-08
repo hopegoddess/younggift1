@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>four operations</title>
+<script src="js/operation.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="whole" align="center">
+	<form action="calculate" method="post">
+		<p>input four numbers</p>
+		<input type="text" id="num1">
+		<input type="text" id="num2">
+		<input type="text" id="num3">
+		<input type="text" id="num4">
+		<br/><br/>
+		<input type="text" id="formula">
+		<input type="submit" value="operation" onclick="showFormula()">
+		<br/><br/>
+		<input type="text" id="answer">
+		<input type="button" value="check answer" onclick="checkAns()">
+	
+	</form>
+	
+</div>
+</body>
+</html>

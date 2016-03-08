@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+F:\研究生\younggift\四则运算\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1875469832.index
+751785396.index
+2773547895.index
+4249027226.index
+4209149326.index
+1480109802.index
+3314503384.index
